@@ -6,6 +6,9 @@
 - **Gem Changes**
   - Update to ruby 2.6.3
 
+### Bug Fix
+- Fix display of topic if no replies present
+
 ## 40.0.1 (April 23, 2019)
 
 ### Bug Fix
